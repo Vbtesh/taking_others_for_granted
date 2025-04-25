@@ -5,8 +5,7 @@ Preprint, data, analysis and modelling files for the paper "Taking others for gr
 *accepted for as a paper and talk at CogSci 2025*
 
 The version of the paper available here is the version submitted to CogSci 2025. The final version of the paper will be available on the CogSci 2025 website after the conference.
-
-
+Paper: https://github.com/Vbtesh/taking_others_for_granted/blob/main/taking_others_for_granted_btesh_lagnado_gerstenberg_2025.pdf
 
 
 ## Data
